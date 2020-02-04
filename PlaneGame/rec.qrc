@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/sounds">
+        <file>Power Bots Loop.wav</file>
+        <file>bullet.mp3</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>background (1).png</file>
+        <file>Enemy (2).png</file>
+        <file>Player (2).png</file>
+        <file>Bullet (2).png</file>
+    </qresource>
+</RCC>
